@@ -9,7 +9,7 @@ name: Build Release
 on:
   push:
     tags:
-      - '1.4.0-epa2'
+      - 'v*'
   workflow_dispatch:
     inputs:
       tag: 
