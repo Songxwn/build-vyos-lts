@@ -11,3 +11,6 @@ e.g.
     git tag v1.2.4
     
     git push origin v1.2.4
+
+
+构建教程： https://songxwn.com/Vyos/
